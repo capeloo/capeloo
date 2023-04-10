@@ -1,7 +1,7 @@
 Olá, me chamo Caio Henrique Capêlo!
 
 🎓 Graduando em Sistemas e Mídias Digitais <br>
-📚 Estudando Desenvolvimento Front-end <br>
+📚 Estudando Desenvolvimento Full Stack <br>
 😄 Pronouns: ele/dele
 
 <div align="center">
