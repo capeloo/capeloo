@@ -20,6 +20,7 @@ Olá, me chamo Caio Henrique Capêlo!
   <img align="center" alt="Caio-PHP" height="35" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-php-99-1175127.png">
   <img align="center" alt="Caio-Bootstrap" height="35" width="40" src="https://www.saashub.com/images/app/service_logos/196/6ve3ytysvsem/large.png?1638255215">
   <img align="center" alt="Caio-Flutter" height="35" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png">
+  <img align="center" alt="Caio-Dart" height="35" width="40" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4">
 </div>
   
  ##
