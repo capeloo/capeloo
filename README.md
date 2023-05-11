@@ -12,15 +12,15 @@ Olá, me chamo Caio Henrique Capêlo!
 
  </div>
   <div style="display: inline-block"> <br>
-  <img align="center" alt="Caio-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Caio-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caio-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caio-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Caio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Caio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Caio-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caio-My-Sql" height="40" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
-  <img align="center" alt="Caio-PHP" height="35" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-php-99-1175127.png">
+  <img align="center" alt="Caio-PHP" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-php-99-1175127.png">
   <img align="center" alt="Caio-Bootstrap" height="40" width="40" src="https://www.saashub.com/images/app/service_logos/196/6ve3ytysvsem/large.png?1638255215">
   <img align="center" alt="Caio-Flutter" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png">
-  <img align="center" alt="Caio-Dart" height="35" width="40" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4">
+  <img align="center" alt="Caio-Dart" height="40" width="40" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4">
 </div>
   
  ##
