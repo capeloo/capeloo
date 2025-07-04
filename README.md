@@ -1,8 +1,4 @@
-Olá, me chamo Caio Henrique Capêlo!
-
-🎓 Graduando em Sistemas e Mídias Digitais <br>
-📚 Estudando Desenvolvimento Full Stack <br>
-😄 Pronouns: ele/dele
+Systems and Digital Media undergraduate passionate about cybersecurity and secure software development
 
 <div align="center">
   <a href="https://github.com/capeloo">
