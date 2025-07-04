@@ -1,4 +1,6 @@
-Systems and Digital Media undergraduate passionate about cybersecurity and secure software development
+Systems and Digital Media undergraduate passionate about cybersecurity and secure software development :D
+
+
 
 <div align="center">
   <a href="https://github.com/capeloo">
