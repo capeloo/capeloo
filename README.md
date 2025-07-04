@@ -1,6 +1,7 @@
-Systems and Digital Media undergraduate passionate about cybersecurity and secure software development :D
+Hey, my name is Caio Henrique Capêlo!
 
-
+🎓 Undergraduate student in Digital Media and Systems
+📚 Currently studying Full Stack Development, Cybersecurity and Secure Software Development
 
 <div align="center">
   <a href="https://github.com/capeloo">
