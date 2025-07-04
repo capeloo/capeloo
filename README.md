@@ -1,6 +1,7 @@
-Hey, my name is Caio Henrique Capêlo!
+Hey, my name is Caio Capêlo!
 
 🎓 Undergraduate student in Digital Media and Systems
+
 📚 Currently studying Full Stack Development, Cybersecurity and Secure Software Development
 
 <div align="center">
