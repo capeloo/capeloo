@@ -1,6 +1,6 @@
 Hey, my name is Caio Capêlo!
 
-🎓 Undergraduate student in Digital Media and Systems
+🎓 Undergraduate student in Digital Media and Systems at Federal University of Ceará
 
 📚 Currently studying Full Stack Development, Cybersecurity and Secure Software Development
 
